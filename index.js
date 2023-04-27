@@ -51,12 +51,6 @@ class MercurySedan extends VehicleModule.Vehicle {
     }
 }
 
-let exampleVehicle = new MercurySedan("Mercury", "Sedan", "1965", "color", "mileage", 5, 0, 4, 100, 100, false);
-console.log(exampleVehicle)
-
-
-console.log(exampleVehicle.scheduleServiceMethod())
-
 
 
 
